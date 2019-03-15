@@ -1,2 +1,2 @@
 # lwspy
-lorwaysan's python learning repository.
+lorwaysan's python learning repository
